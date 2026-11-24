@@ -1,5 +1,4 @@
 # Harini-machine-learning-experiment-2
-# Nagaraj-S-Machine-Learning--Experiment-2
 ## DATE : 01/09/2026
 
 
